@@ -1,1 +1,23 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+/*@import "~bootstrap/dist/css/bootstrap.min.css";*/
+
+body {
+  background-color: green;
+  display: flex;
+  font-size: 100px;
+}
+
+.card {
+  margin-top: 150px;
+  height: 400px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+#palo2 {
+  text-align: right;
+
+}
+
+.rotate {
+  rotate: 180deg;
+}
